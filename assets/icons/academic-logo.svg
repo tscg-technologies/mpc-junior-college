@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <!-- Outer Academic Shield / Geometric Seal -->
+  <path d="M24 4L40 10V22C40 32.5 33.2 41.8 24 44C14.8 41.8 8 32.5 8 22V10L24 4Z" fill="#142B45" stroke="#2457A6" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Physics Orbital Ring -->
+  <ellipse cx="24" cy="24" rx="13" ry="5.5" transform="rotate(-30 24 24)" stroke="#3478D4" stroke-width="1.6" stroke-dasharray="2 1"/>
+  <!-- Chemistry Molecule Core / Electrons -->
+  <circle cx="24" cy="24" r="3.2" fill="#F29B38"/>
+  <circle cx="15" cy="18.5" r="1.6" fill="#3478D4"/>
+  <circle cx="33" cy="29.5" r="1.6" fill="#3478D4"/>
+  <!-- Mathematics Pi Symbol at Base -->
+  <path d="M19 28H29M21 28V34M27 28V34C27 35 28 35 29 34.5" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
